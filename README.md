@@ -1,0 +1,2 @@
+# codingExercises
+practicing JavaScript
